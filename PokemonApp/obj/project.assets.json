@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCODES!!!\\PokemonApp\\PokemonApp.csproj",
+      "projectUniqueName": "D:\\github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRUZ_RAYLINE_BSIT_32E3\\PokemonApp\\PokemonApp.csproj",
       "projectName": "PokemonApp",
-      "projectPath": "D:\\VSCODES!!!\\PokemonApp\\PokemonApp.csproj",
+      "projectPath": "D:\\github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRUZ_RAYLINE_BSIT_32E3\\PokemonApp\\PokemonApp.csproj",
       "packagesPath": "C:\\Users\\cuteaq\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCODES!!!\\PokemonApp\\obj\\",
+      "outputPath": "D:\\github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRUZ_RAYLINE_BSIT_32E3\\PokemonApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cuteaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
